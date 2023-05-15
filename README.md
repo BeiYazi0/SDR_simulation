@@ -40,5 +40,5 @@ GUI 界面由本人设计并实现。
 
 <a href="https://github.com/BeiYazi0/SDR_simulation/blob/main/%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf" target="_blank">PDF</a>
 
-![](设计报告.pdf)
+![PDF](设计报告.pdf)
 
